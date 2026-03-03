@@ -16,9 +16,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "yknlwca to elec",
-    description: "welcome to yknlwca!",
-    scheme: "system", // 'light' | 'dark' | 'system'
+    title: "Road to Elec",
+    description: "Hello There",
+    scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
