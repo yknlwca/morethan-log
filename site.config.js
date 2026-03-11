@@ -16,7 +16,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Road to Elec",
+    title: "Road to Electric",
     description: "Hello There",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
